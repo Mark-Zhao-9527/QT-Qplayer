@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/all.jpg</file>
+        <file>images/background.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/prev.png</file>
+        <file>images/Qplayer.ico</file>
+        <file>images/background1.png</file>
+        <file>images/fullscreen.png</file>
+        <file>images/openfile.png</file>
+    </qresource>
+</RCC>
