@@ -16,4 +16,4 @@ doSetUrlSource: Unresolved error code 0x80004005
 ***如果您下载了，请帮忙在本页右上角点下star哈!***  
 
 写在最后：为了方便各位朋友的对比借鉴引用，本程序后期不再更新。若想结合某视频学习，这个版本是最适合的。  
-若想要功能更完善且完全不一样的播放器，请关注本人主页另一个仓库“Qt-XtPlayer"。
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 若想要功能更完善且完全不一样的播放器，请关注本人主页另一个仓库“Qt-XtPlayer"。
